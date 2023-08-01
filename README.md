@@ -4,7 +4,7 @@
 This project focuses on identifying Polycystic Ovary Syndrome (PCOS) using machine learning techniques based on research outlined in a journal paper. Both supervised and unsupervised algorithms are employed to detect PCOS using heart and diabetes datasets downloaded from Kaggle. The project involves several stages, including preprocessing, feature selection, applying algorithms to all features, examining the results, and plotting feature importance graphs and ROC curves.
 
 
-## Background 
+## Overview 
 Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder in women, affecting reproductive health and overall well-being. Early detection and timely treatment are crucial for better management of the condition. This project addresses the need for an accurate and efficient diagnostic tool using machine learning techniques.
 ## Authors
 
@@ -12,7 +12,7 @@ Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder in women, affecti
 - Kavita Pandey 
 
 
-## Dataset
+## Data Sources 
 The heart and diabetes datasets are downloaded from Kaggle. They contain relevant health information that may help in identifying PCOS in individuals.
 
 - [Heart dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
@@ -49,5 +49,13 @@ The heart and diabetes datasets are downloaded from Kaggle. They contain relevan
 6. Plot feature importance graphs and ROC curves for visualization and analysis.
 
 Combine information from all three categories of features to create a comprehensive PCOS detection model.
+
+## Project Results
+The project concludes that using the combination of three categories of algorithms (supervised, unsupervised, and feature importance-based), we can successfully detect PCOS with improved accuracy and reliability.
+
+## Usage
+1. Download the Heart and Diabetes datasets from the provided Kaggle links.
+2. Place the downloaded datasets in the appropriate project directories.
+3. Run the Jupyter notebooks or Python scripts for each step in the project.
 
 
