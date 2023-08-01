@@ -51,4 +51,3 @@ The heart and diabetes datasets are downloaded from Kaggle. They contain relevan
 Combine information from all three categories of features to create a comprehensive PCOS detection model.
 
 
-
